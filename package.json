@@ -1,11 +1,11 @@
 {
-  "name": "knights-canvas",
-  "version": "1.0.0",
+  "name": "knights-canvasx",
+  "version": "1.0.1",
   "description": "BY LINZ / L-M0",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Not-found-squad/knights-canvas.git"
+    "url": "git+https://github.com/clicknetcafe/knights-canvas.git"
   },
   "keywords": [
     "swiftcord",
@@ -20,9 +20,9 @@
   "author": "LINZ",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/not-found-squad/knights-canvas/issues"
+    "url": "https://github.com/clicknetcafe/knights-canvas/issues"
   },
-  "homepage": "https://github.com/not-found-squad/knights-canvas#readme",
+  "homepage": "https://github.com/clicknetcafe/knights-canvas#readme",
   "dependencies": {
     "canvas": "^2.11.2",
     "fortnite": "^4.3.2",
