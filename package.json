@@ -24,9 +24,9 @@
   },
   "homepage": "https://github.com/not-found-squad/knights-canvas#readme",
   "dependencies": {
-    "canvas": "^2.6.1",
-    "fortnite-9812": "^1.0.4",
+    "canvas": "^2.11.2",
     "fortnite": "^4.3.2",
-    "moment": "^2.29.1"
+    "fortnite-9812": "^1.0.4",
+    "moment": "^2.29.4"
   }
 }
